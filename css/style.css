@@ -44,7 +44,7 @@
 }
 
 .background-portfolio {
-	background-color: #F6F6F6
+	background-color: rgba(255,255,255,1)
 }
 
 body{
@@ -1487,7 +1487,7 @@ figure.vimeo a img, figure.youtube a img {
 .background-parallax{
 	position: absolute;
 	display:block;
-	background-size: cover;
+	background: linear-gradient(217deg, #d52f5b, #0b333c 50%);
 	background-position: center center;
 	top: 0;
 	left: 0;

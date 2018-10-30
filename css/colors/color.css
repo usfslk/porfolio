@@ -15,12 +15,12 @@
 .team-wrap,
 .contact-det,
 .blog-box .more:after{
-	color: #fecb2e;
+	color: #d52f5b;
 }
 
 .menu ul li ul li a.curent-multi-page,
 .menu ul li ul li a.curent-multi-page:hover{
-	color: #fecb2e !important;
+	color: #d52f5b !important;
 }
 #royal_preloader.royal_preloader_progress .royal_preloader_meter,
 #owl-hero-1.owl-theme .owl-controls .owl-page.active span,
@@ -32,24 +32,24 @@
 #cd-zoom-in, #cd-zoom-out,
 .btn-primary,
 .btn-primary:hover{
-	background-color: #fecb2e;
+	background-color: #d52f5b;
 }
 figure.vimeo a:before, figure.youtube a:before {
-	border-left: 10px solid #fecb2e;
+	border-left: 10px solid #d52f5b;
 }
 figure.vimeo:hover a:after, figure.youtube:hover a:after {
-	background:#fecb2e;
+	background:#d52f5b;
 }
 .form-control:focus,
 .form-control:active{
-	border-color: #fecb2e;
+	border-color: #d52f5b;
 }
 
 ::selection {
-	background-color: #fecb2e;
+	background-color: #d52f5b;
 }
 ::-moz-selection {
-	background-color: #fecb2e;
+	background-color: #d52f5b;
 }
 
 @keyframes "blink" {
@@ -57,7 +57,7 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
     color: transparent;
   }
   50% {
-	color: #fecb2e;
+	color: #d52f5b;
   }
 }
 @-moz-keyframes blink {
@@ -65,7 +65,7 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
     color: transparent;
   }
   50% {
-	color: #fecb2e;
+	color: #d52f5b;
   }
 }
 @-webkit-keyframes "blink" {
@@ -73,7 +73,7 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
     color: transparent;
   }
   50% {
-	color: #fecb2e;
+	color: #d52f5b;
   }
 }
 @-ms-keyframes "blink" {
@@ -81,7 +81,7 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
     color: transparent;
   }
   50% {
-	color: #fecb2e;
+	color: #d52f5b;
   }
 }
 @-o-keyframes "blink" {
@@ -89,7 +89,7 @@ figure.vimeo:hover a:after, figure.youtube:hover a:after {
     color: transparent;
   }
   50% {
-	color: #fecb2e;
+	color: #d52f5b;
   }
 }
 
